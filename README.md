@@ -1,8 +1,8 @@
 # ParkingLot
 
 <h2>Project Structure</h2>
-<b>
-<img width="576" height="400" alt="2023-04-27_21h35_43" src="https://user-images.githubusercontent.com/82704862/234926582-ac96a646-7a88-48f6-b951-886832e46383.png">
+<br>
+![2023-04-28_07h49_52](https://user-images.githubusercontent.com/82704862/235039390-227ee6c9-d01f-4964-8b2a-6824c86994bc.png)
 <br>
   <h2>Project implementation highlights</h2>
   <ol>
