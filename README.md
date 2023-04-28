@@ -12,11 +12,13 @@
     <li>Custom exception classes: VehicleAlreadyAvailableInLevelException, SlotsAreCompletelyFilledException and VehicleUnAvailableException</li> 
     <li>Notify class: This class is used to send sms text to customer of parked vehicle details</li>
   </ol>
-<h2>methods of Vehicle class in the project </h2>
-<h5> park_vehicle(*args) takes vehicle number as a parameter and stores the vehicle and it's user information such as vehicle type, customer name, phone number and returns a data string</h5>
-<h5> remove_vehicle(*args) takes vehicle number as a parameter and removes the vehicle from memory and returns a data string</h5>
-<h5> spot_my_vehicle(*args) takes vehicle number as a parameter and returns the JSON data consisting of the vehicle parked level, parked slot etc </h5>
-<h2> How to run the project ? </h2>
+<h2>Methods of Vehicle class in the project </h2>
+<ol>
+<li><h4> park_vehicle(*args) takes vehicle number as a parameter and stores the vehicle and it's user information such as vehicle type, customer name, phone number and returns a data string</h4></li>
+<li><h4> remove_vehicle(*args) takes vehicle number as a parameter and removes the vehicle from memory and returns a data string</h4></li>
+<li><h4> spot_my_vehicle(*args) takes vehicle number as a parameter and returns the JSON data consisting of the vehicle parked level, parked slot etc </h4></li>
+<li><h4> How to run the project ? </h4></li>
+</ol?
 <ol>
   <li>Clone the project</li>
   <li>Open parking_app.py file</li>
@@ -24,7 +26,7 @@
   <li>I have implemented the project so that user can input the data from the terminal using the options provided</li>
 </ol>
 <br>
-<h2> terminal options when user runs the project</h2>
+<h2> Terminal options when user runs the project</h2>
 <ol>
   <li><img width="537" alt="2023-04-27_22h05_37" src="https://user-images.githubusercontent.com/82704862/234930403-cdfc9998-b6a1-4fe0-a9ea-ee21993195a0.png"></li>
   <li><img width="580" alt="2023-04-27_22h06_35" src="https://user-images.githubusercontent.com/82704862/234930625-7daf2a12-c7e2-44f2-b848-c10e129b7042.png"></li>
