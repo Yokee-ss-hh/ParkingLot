@@ -1,9 +1,9 @@
 # ParkingLot
 
 <h2>Project Structure</h2>
-![2023-04-28_07h49_52](https://user-images.githubusercontent.com/82704862/235039498-dffe61af-07a3-4332-b428-96de8404c62d.png)
+![image](https://user-images.githubusercontent.com/82704862/235039556-b17bc9d5-51b8-4300-8c01-c6fba2694562.png)
 
-  <h2>Project implementation highlights</h2>
+<h2>Project implementation highlights</h2>
   <ol>
     <li>Classes for parking levels: LevelA and LevelB are totally dedicated to available levels in parking lot with their maximum available and current available slots</li>
     <li>Class for parking, un-parking and finding parked vehicle: Vehicle class with 3 methods</li>
