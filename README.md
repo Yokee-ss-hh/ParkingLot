@@ -17,8 +17,9 @@
 <li><h4> park_vehicle(*args) takes vehicle number as a parameter and stores the vehicle and it's user information such as vehicle type, customer name, phone number and returns a data string</h4></li>
 <li><h4> remove_vehicle(*args) takes vehicle number as a parameter and removes the vehicle from memory and returns a data string</h4></li>
 <li><h4> spot_my_vehicle(*args) takes vehicle number as a parameter and returns the JSON data consisting of the vehicle parked level, parked slot etc </h4></li>
-<li><h4> How to run the project ? </h4></li>
-</ol?
+</ol>
+<br>
+<h2>How to run the project ?</h2>
 <ol>
   <li>Clone the project</li>
   <li>Open parking_app.py file</li>
